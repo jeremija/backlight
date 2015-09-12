@@ -1,0 +1,4 @@
+[package]
+name = "backlight"
+version = "0.1.0"
+authors = ["Jerko Steiner <jerko.steiner@gmail.com>"]
